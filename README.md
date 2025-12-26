@@ -23,7 +23,7 @@
 1.  Clone โปรเจกต์นี้
     ```bash
     git clone https://github.com/kamthorn/nsf-calculator.git
-    cd kor-or-chor
+    cd nsf-calculator
     ```
 
 2.  ติดตั้ง Dependencies
